@@ -6,4 +6,3 @@ Third, create another terminal and cd back into frontend with cd .. and then cd 
 Fourth, enter npm i in terminal.
 Finally, input npm start for site to appear. 
 
-![Screenshot (2779)](https://user-images.githubusercontent.com/108171842/200851978-0b86fe28-aa1f-4f4d-8eb7-fd4e980b181c.png)
